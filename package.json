@@ -48,20 +48,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HenryPenton/config-captain.git"
+    "url": "git+https://github.com/HenryPenton/filter-split.git"
   },
   "keywords": [
-    "config",
-    "captain",
-    "dependency",
-    "injection"
+    "filter",
+    "split"
   ],
   "author": "Henry Penton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HenryPenton/config-captain/issues"
+    "url": "https://github.com/HenryPenton/filter-split/issues"
   },
-  "homepage": "https://github.com/HenryPenton/config-captain/tree/main",
+  "homepage": "https://github.com/HenryPenton/filter-split/tree/main",
   "devDependencies": {
     "@stryker-mutator/core": "9.x",
     "@eslint/js": "9.x",
